@@ -1,0 +1,86 @@
+.cardA {
+    /* box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); */
+    transition: 0.3s;
+    width: 91%;
+    margin-left:80px;
+    background-color: white;
+    /* height: 325px; */
+    height: auto;
+    margin-top: 20px;
+    display: inline-block;
+}
+  
+.cardA:hover {
+    box-shadow: 0 8px 16px 0 rgba(114, 114, 114, 0.2);
+}
+  
+.containerA {
+    padding: 2px 10px;
+    width: 200px;
+}
+.cardA {
+    box-shadow: 0 4px 8px 0 rgba(184, 184, 184, 0.2);
+    transition: 0.3s;
+    border-radius: 20px;
+}
+#contentA{
+    border-radius: 15px;
+}
+#profilePicA{
+    width: 38px;
+    height: 38px;
+    border-radius: 50%;
+    float: left;
+    margin: 7px 7px;
+    vertical-align: middle;
+}
+
+ .profileA{
+     display: flex;
+     align-items: center;
+ }
+
+ #nameA{
+     margin: 2px;
+     font-size: 14px;
+ }
+ #cityA{
+     margin-top: 2px;
+     font-size: 10px;
+     color: rgb(173, 173, 173);
+     margin-bottom: 0;
+     text-align: left;
+     margin-left: 3px;
+     font-family: 'Quicksand';
+ }
+
+#bookmarkA{
+    margin-left: 160px;
+}
+.buttonsA{
+   margin-top: 5px;
+   font-size: 30px;
+   text-align: left;
+   margin-left: 3px;
+}
+#likedByA{
+    margin-bottom: 5px;
+    font-size: 13px;
+    text-align: left;
+    margin-top: 2px;
+}
+
+#likeA, #commentA, #shareA{
+  margin: 5px;
+}
+#descriptionA{
+    margin-top: 0;
+    font-size: 12px;
+    margin-left: 10px;
+    width: 220px;
+    text-align: left;
+}
+#likered{
+    color: red !important;
+    margin: 5px;
+}

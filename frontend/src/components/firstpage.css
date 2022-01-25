@@ -1,0 +1,35 @@
+.firstpage1{
+    background:linear-gradient(to right, rgb(255, 178, 155), rgb(249, 255, 162));
+    top: 0;
+    height:100vh;
+}
+.head{
+    margin-top: 0;
+    padding-top: 15px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:rgb(255, 98, 98)
+}
+
+.nav1{
+    background-color: rgb(104, 159, 231);
+    padding: 50px;
+    font-size: 30px;
+    border-radius: 10px;
+    color: white;
+    box-shadow: 10px 10px 10px rgba(143, 143, 143, 0.651);
+    margin-right: 100px;
+    margin-left: 120px;
+}
+.navbar1{
+    margin-top: 200px;
+    text-align: center;
+}
+.nav2{
+    background-color: rgb(168, 72, 192);
+    padding: 50px;
+    font-size: 30px;
+    border-radius: 10px;
+    color: white;
+    box-shadow: 10px 10px 10px rgba(143, 143, 143, 0.651);
+    margin-right: 100px;
+}
