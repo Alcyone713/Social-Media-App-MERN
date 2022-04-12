@@ -4,13 +4,8 @@ This is a primitive social media application which I wish to upgrade further. Cu
 
 ## Screenshots of the project
 ### Home Page
-![main_page](Screenshot 2022-04-12 091403.png)
-### Sign up page
-![signup_page](Screenshot 2022-04-12 090630.png)
-### Sign In page
-![signin_page](Screenshot 2022-04-12 090728.png)
-### Create Post page
-![Createpost_page](Screenshot 2022-04-12 091445.png)
+![main_page](Screenshot2022-04-12091403.png)
+
 
 ## Getting Started
 
